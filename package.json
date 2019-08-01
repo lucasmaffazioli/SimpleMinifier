@@ -2,7 +2,7 @@
 	"name": "simpleminify",
 	"displayName": "Simple Minifier",
 	"description": "Simply remove enters and double spaces from selected text.",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "LucasMaffazioli",
 	"engines": {
 		"vscode": "^1.36.0"
