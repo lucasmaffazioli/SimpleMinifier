@@ -1,8 +1,8 @@
 {
 	"name": "simpleminify",
-	"displayName": "SimpleMinifier",
+	"displayName": "Simple Minifier",
 	"description": "Simply remove enters and double spaces from selected text.",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"publisher": "LucasMaffazioli",
 	"engines": {
 		"vscode": "^1.36.0"
@@ -17,6 +17,7 @@
 	"activationEvents": [
 		"onCommand:extension.simpleminify"
 	],
+	"icon": "images/icon.png",
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
